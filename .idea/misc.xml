@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/exament3_v3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/exament3_v3/app/src/main/res/layout/activity_maps.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/exament3_v3/app/src/main/res/layout/activity_mis_pokemones.xml" value="0.2203125" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/exament3_v3/app/src/main/res/layout/activity_prueba_map.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/exament3_v3/app/src/main/res/layout/item_pokemon.xml" value="0.1431159420289855" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_prueba_map.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

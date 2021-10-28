@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exament3_v3</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_prueba_map">PruebaMap</string>
+</resources>
